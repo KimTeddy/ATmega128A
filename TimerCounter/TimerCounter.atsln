@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "TimerCounter_hw1", "TimerCounter_hw1\TimerCounter_hw1.cproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "TimerCounter_cl1", "TimerCounter_cl1\TimerCounter_cl1.cproj", "{3C6FA26B-0ED9-41C0-BF69-ED485F3198F3}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "TimerCounter_hw2-1", "TimerCounter_hw2-1\TimerCounter_hw2-1.cproj", "{15F295BF-EA9F-4022-A9C9-5FBD3624FBEB}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "TimerCounter_hw2-2", "TimerCounter_hw2-2\TimerCounter_hw2-2.cproj", "{6F6A3BB1-564F-4587-9E08-9F1B3F12375F}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "TimerCounter_cl1_PWM", "TimerCounter_cl1\TimerCounter_cl1_PWM.cproj", "{3C2A2D85-86F3-4241-8A5C-48DA7A0D8855}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.Build.0 = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.ActiveCfg = Release|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.Build.0 = Release|AVR
+		{3C6FA26B-0ED9-41C0-BF69-ED485F3198F3}.Debug|AVR.ActiveCfg = Debug|AVR
+		{3C6FA26B-0ED9-41C0-BF69-ED485F3198F3}.Debug|AVR.Build.0 = Debug|AVR
+		{3C6FA26B-0ED9-41C0-BF69-ED485F3198F3}.Release|AVR.ActiveCfg = Release|AVR
+		{3C6FA26B-0ED9-41C0-BF69-ED485F3198F3}.Release|AVR.Build.0 = Release|AVR
+		{15F295BF-EA9F-4022-A9C9-5FBD3624FBEB}.Debug|AVR.ActiveCfg = Debug|AVR
+		{15F295BF-EA9F-4022-A9C9-5FBD3624FBEB}.Debug|AVR.Build.0 = Debug|AVR
+		{15F295BF-EA9F-4022-A9C9-5FBD3624FBEB}.Release|AVR.ActiveCfg = Release|AVR
+		{15F295BF-EA9F-4022-A9C9-5FBD3624FBEB}.Release|AVR.Build.0 = Release|AVR
+		{6F6A3BB1-564F-4587-9E08-9F1B3F12375F}.Debug|AVR.ActiveCfg = Debug|AVR
+		{6F6A3BB1-564F-4587-9E08-9F1B3F12375F}.Debug|AVR.Build.0 = Debug|AVR
+		{6F6A3BB1-564F-4587-9E08-9F1B3F12375F}.Release|AVR.ActiveCfg = Release|AVR
+		{6F6A3BB1-564F-4587-9E08-9F1B3F12375F}.Release|AVR.Build.0 = Release|AVR
+		{3C2A2D85-86F3-4241-8A5C-48DA7A0D8855}.Debug|AVR.ActiveCfg = Debug|AVR
+		{3C2A2D85-86F3-4241-8A5C-48DA7A0D8855}.Debug|AVR.Build.0 = Debug|AVR
+		{3C2A2D85-86F3-4241-8A5C-48DA7A0D8855}.Release|AVR.ActiveCfg = Release|AVR
+		{3C2A2D85-86F3-4241-8A5C-48DA7A0D8855}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
